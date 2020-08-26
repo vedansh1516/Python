@@ -1,4 +1,4 @@
-f=int(input("enter a number to find factorial: "))
+f=int(input("enter a number to find factorial:"))
 if f==0:
     print("factorial is 1")
 else:
