@@ -6,7 +6,7 @@ def breakingRecords(scores):
     for i in range(len(scores)):
         if(scores[i]>hs):
             hs=scores[i]
-            hcount=hcount+1
+            hcount=+1
                                                 
     for i in range(len(scores)):
         if(scores[i]<ls):
